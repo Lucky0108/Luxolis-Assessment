@@ -23,7 +23,7 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```sh
    git clone <repo_url>
-   cd blog-app
+   cd luxolis-assessment
    ```
 
 2. Install dependencies for both frontend and backend:
@@ -77,7 +77,7 @@ REACT_APP_API_URL=http://localhost:5000/api
 
 ## Project Structure
 ```
-Luxolis-Assessment/
+luxolis-assessment/
 ├── backend/
 │   ├── models/
 │   ├── routes/
